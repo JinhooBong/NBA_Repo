@@ -1,3 +1,94 @@
 {
-  "Team": "Los Angeles Lakers"
+  "Team_Players": [
+    {
+      "Team": "Los Angeles Lakers"
+    },
+    {
+      "Team": "Golden State Warriors"
+    },
+    {
+      "Team": "Boston Celtics"
+    },
+    {
+      "Team": "Los Angeles Clippers"
+    },  
+    {
+      "Team": "Cleveland Cavaliers"
+    },
+    {
+      "Team": "Washington Wizards"
+    },
+    {
+      "Team": "Miami Heat"
+    },
+    {
+      "Team": "Houston Rockets"
+    },
+    {
+      "Team": "Brooklyn Nets"
+    },
+    {
+      "Team": "New York Knicks"
+    },
+    {
+      "Team": "Chicago Bulls"
+    },
+    {
+      "Team": "Milwaukee Bucks"
+    },
+    {
+      "Team": "Detroit Pistons"
+    },
+    {
+      "Team": "Philadelphia 76ers"
+    },
+    {
+      "Team": "San Antonio Spurs"
+    },
+    {
+      "Team": "Dallas Mavericks"
+    },
+    {
+      "Team": "Utah Jazz"
+    },
+    {
+      "Team": "Denver Nuggets"
+    },
+    {
+      "Team": "Portland Trail Blazers"
+    },
+    {
+      "Team": "Toronto Raptors"
+    },
+    {
+      "Team": "Oklahoma City Thunder"
+    },
+    {
+      "Team": "Sacramento Kings"
+    },
+    {
+      "Team": "Atlanta Hawks"
+    },
+    {
+      "Team": "Phoenix Suns"
+    },
+    {
+      "Team": "Memphis Grizzlies"
+    },
+    {
+      "Team": "Charlotte Hornets"
+    },
+    {
+      "Team": "Orlando Magic"
+    },
+    {
+      "Team": "Indiana Pacers"
+    },
+    {
+      "Team": "New Orleans Pelicans"
+    },
+    {
+      "Team": "Minnesota Timberwolves"
+    }
+  ]
 }
