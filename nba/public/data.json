@@ -1,94 +1,124 @@
 {
   "Team_Players": [
     {
-      "Team": "Los Angeles Lakers"
+      "Team": "Los Angeles Lakers",
+      "Player": "Lebron James"
     },
     {
-      "Team": "Golden State Warriors"
+      "Team": "Golden State Warriors",
+      "Player": "Stephen Curry"
     },
     {
-      "Team": "Boston Celtics"
+      "Team": "Boston Celtics",
+      "Player": ""
     },
     {
-      "Team": "Los Angeles Clippers"
+      "Team": "Los Angeles Clippers",
+      "Player": "Kawhi Leonard"
     },  
     {
-      "Team": "Cleveland Cavaliers"
+      "Team": "Cleveland Cavaliers",
+      "Player": ""
     },
     {
-      "Team": "Washington Wizards"
+      "Team": "Washington Wizards",
+      "Player": ""
     },
     {
-      "Team": "Miami Heat"
+      "Team": "Miami Heat",
+      "Player": "Jimmy Butler"
     },
     {
-      "Team": "Houston Rockets"
+      "Team": "Houston Rockets",
+      "Player": ""
     },
     {
-      "Team": "Brooklyn Nets"
+      "Team": "Brooklyn Nets",
+      "Player": "Kevin Durant"
     },
     {
-      "Team": "New York Knicks"
+      "Team": "New York Knicks",
+      "Player": ""
     },
     {
-      "Team": "Chicago Bulls"
+      "Team": "Chicago Bulls",
+      "Player": "DeMar DeRozan"
     },
     {
-      "Team": "Milwaukee Bucks"
+      "Team": "Milwaukee Bucks",
+      "Player": "Giannis Antetekoumpo"
     },
     {
-      "Team": "Detroit Pistons"
+      "Team": "Detroit Pistons",
+      "Player": ""
     },
     {
-      "Team": "Philadelphia 76ers"
+      "Team": "Philadelphia 76ers",
+      "Player": "Joel Embiid"
     },
     {
-      "Team": "San Antonio Spurs"
+      "Team": "San Antonio Spurs",
+      "Player": ""
     },
     {
-      "Team": "Dallas Mavericks"
+      "Team": "Dallas Mavericks",
+      "Player": "Luka Doncic"
     },
     {
-      "Team": "Utah Jazz"
+      "Team": "Utah Jazz",
+      "Player": "Donovan Mitchell"
     },
     {
-      "Team": "Denver Nuggets"
+      "Team": "Denver Nuggets",
+      "Player": "Nikola Jokić"
     },
     {
-      "Team": "Portland Trail Blazers"
+      "Team": "Portland Trail Blazers",
+      "Player": "Damian Lillard"
     },
     {
-      "Team": "Toronto Raptors"
+      "Team": "Toronto Raptors",
+      "Player": ""
     },
     {
-      "Team": "Oklahoma City Thunder"
+      "Team": "Oklahoma City Thunder",
+      "Player": ""
     },
     {
-      "Team": "Sacramento Kings"
+      "Team": "Sacramento Kings",
+      "Player": ""
     },
     {
-      "Team": "Atlanta Hawks"
+      "Team": "Atlanta Hawks",
+      "Player": "Trae Young"
     },
     {
-      "Team": "Phoenix Suns"
+      "Team": "Phoenix Suns",
+      "Player": "Devin Booker"
     },
     {
-      "Team": "Memphis Grizzlies"
+      "Team": "Memphis Grizzlies",
+      "Player": "Ja Morant"
     },
     {
-      "Team": "Charlotte Hornets"
+      "Team": "Charlotte Hornets",
+      "Player": "Lamelo Ball"
     },
     {
-      "Team": "Orlando Magic"
+      "Team": "Orlando Magic",
+      "Player": ""
     },
     {
-      "Team": "Indiana Pacers"
+      "Team": "Indiana Pacers",
+      "Player": ""
     },
     {
-      "Team": "New Orleans Pelicans"
+      "Team": "New Orleans Pelicans",
+      "Player": "Brandon Ingram"
     },
     {
-      "Team": "Minnesota Timberwolves"
+      "Team": "Minnesota Timberwolves",
+      "Player": "Karl-Anthony Towns"
     }
   ]
 }
