@@ -23,7 +23,7 @@ const PlayerName = () => {
         console.log(response.data.api.players);
         // the response is an array containing all players with matching request data
         let players = response.data.api.players;
-        setPlayerName(players[0].firstName + players[0].lastName);
+        setPlayerName(players[0].firstName + ' ' + players[0].lastName);
       })
       .catch((err) => {
         console.log('err', err);
