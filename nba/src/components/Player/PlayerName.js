@@ -2,7 +2,7 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 const axios = require('axios');
 
-const PlayerName = () => {
+const PlayerName = ({ team }) => {
 
   const [playerName, setPlayerName] = useState('');
 
