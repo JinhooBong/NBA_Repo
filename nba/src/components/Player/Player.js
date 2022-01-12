@@ -10,10 +10,10 @@ const Player = () => {
   const [teams, setTeams] = useState('');
 
   useEffect(() => {
-    getTeams();
+    getData();
   }, []);
 
-  const getTeams = () => {
+  const getData = () => {
   
     axios('data.json', {
       headers: {

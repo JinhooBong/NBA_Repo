@@ -10,7 +10,7 @@
     },
     {
       "Team": "Boston Celtics",
-      "Player": ""
+      "Player": "Jayson Tatum"
     },
     {
       "Team": "Los Angeles Clippers",
@@ -18,11 +18,11 @@
     },  
     {
       "Team": "Cleveland Cavaliers",
-      "Player": ""
+      "Player": "Darius Garland"
     },
     {
       "Team": "Washington Wizards",
-      "Player": ""
+      "Player": "Bradley Beal"
     },
     {
       "Team": "Miami Heat",
@@ -30,7 +30,7 @@
     },
     {
       "Team": "Houston Rockets",
-      "Player": ""
+      "Player": "Christian Wood"
     },
     {
       "Team": "Brooklyn Nets",
@@ -38,7 +38,7 @@
     },
     {
       "Team": "New York Knicks",
-      "Player": ""
+      "Player": "Julius Randle"
     },
     {
       "Team": "Chicago Bulls",
@@ -50,7 +50,7 @@
     },
     {
       "Team": "Detroit Pistons",
-      "Player": ""
+      "Player": "Cade Cunningham"
     },
     {
       "Team": "Philadelphia 76ers",
@@ -58,11 +58,11 @@
     },
     {
       "Team": "San Antonio Spurs",
-      "Player": ""
+      "Player": "Dejounte Murray"
     },
     {
       "Team": "Dallas Mavericks",
-      "Player": "Luka Doncic"
+      "Player": "Luka Dončić"
     },
     {
       "Team": "Utah Jazz",
@@ -78,15 +78,15 @@
     },
     {
       "Team": "Toronto Raptors",
-      "Player": ""
+      "Player": "Fred VanVleet"
     },
     {
       "Team": "Oklahoma City Thunder",
-      "Player": ""
+      "Player": "Shai Gilgeous-Alexander"
     },
     {
       "Team": "Sacramento Kings",
-      "Player": ""
+      "Player": "De'Aaron Fox"
     },
     {
       "Team": "Atlanta Hawks",
@@ -106,11 +106,11 @@
     },
     {
       "Team": "Orlando Magic",
-      "Player": ""
+      "Player": "Cole Anthony"
     },
     {
       "Team": "Indiana Pacers",
-      "Player": ""
+      "Player": "Domantas Sabonis"
     },
     {
       "Team": "New Orleans Pelicans",
