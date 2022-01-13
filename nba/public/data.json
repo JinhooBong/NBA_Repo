@@ -1,0 +1,124 @@
+{
+  "Team_Players": [
+    {
+      "Team": "Los Angeles Lakers",
+      "Player": "Lebron James"
+    },
+    {
+      "Team": "Golden State Warriors",
+      "Player": "Stephen Curry"
+    },
+    {
+      "Team": "Boston Celtics",
+      "Player": "Jayson Tatum"
+    },
+    {
+      "Team": "Los Angeles Clippers",
+      "Player": "Kawhi Leonard"
+    },  
+    {
+      "Team": "Cleveland Cavaliers",
+      "Player": "Darius Garland"
+    },
+    {
+      "Team": "Washington Wizards",
+      "Player": "Bradley Beal"
+    },
+    {
+      "Team": "Miami Heat",
+      "Player": "Jimmy Butler"
+    },
+    {
+      "Team": "Houston Rockets",
+      "Player": "Christian Wood"
+    },
+    {
+      "Team": "Brooklyn Nets",
+      "Player": "Kevin Durant"
+    },
+    {
+      "Team": "New York Knicks",
+      "Player": "Julius Randle"
+    },
+    {
+      "Team": "Chicago Bulls",
+      "Player": "DeMar DeRozan"
+    },
+    {
+      "Team": "Milwaukee Bucks",
+      "Player": "Giannis Antetekoumpo"
+    },
+    {
+      "Team": "Detroit Pistons",
+      "Player": "Cade Cunningham"
+    },
+    {
+      "Team": "Philadelphia 76ers",
+      "Player": "Joel Embiid"
+    },
+    {
+      "Team": "San Antonio Spurs",
+      "Player": "Dejounte Murray"
+    },
+    {
+      "Team": "Dallas Mavericks",
+      "Player": "Luka Dončić"
+    },
+    {
+      "Team": "Utah Jazz",
+      "Player": "Donovan Mitchell"
+    },
+    {
+      "Team": "Denver Nuggets",
+      "Player": "Nikola Jokić"
+    },
+    {
+      "Team": "Portland Trail Blazers",
+      "Player": "Damian Lillard"
+    },
+    {
+      "Team": "Toronto Raptors",
+      "Player": "Fred VanVleet"
+    },
+    {
+      "Team": "Oklahoma City Thunder",
+      "Player": "Shai Gilgeous-Alexander"
+    },
+    {
+      "Team": "Sacramento Kings",
+      "Player": "De'Aaron Fox"
+    },
+    {
+      "Team": "Atlanta Hawks",
+      "Player": "Trae Young"
+    },
+    {
+      "Team": "Phoenix Suns",
+      "Player": "Devin Booker"
+    },
+    {
+      "Team": "Memphis Grizzlies",
+      "Player": "Ja Morant"
+    },
+    {
+      "Team": "Charlotte Hornets",
+      "Player": "Lamelo Ball"
+    },
+    {
+      "Team": "Orlando Magic",
+      "Player": "Cole Anthony"
+    },
+    {
+      "Team": "Indiana Pacers",
+      "Player": "Domantas Sabonis"
+    },
+    {
+      "Team": "New Orleans Pelicans",
+      "Player": "Brandon Ingram"
+    },
+    {
+      "Team": "Minnesota Timberwolves",
+      "Player": "Karl-Anthony Towns"
+    }
+  ]
+}
