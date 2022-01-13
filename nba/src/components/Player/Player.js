@@ -1,12 +1,11 @@
-import React from 'react';
-import PlayerName from './PlayerName';
-import { useState, useEffect } from 'react';
-import './player.css';
+import React from "react";
+import PlayerName from "./PlayerName";
+import { useState, useEffect } from "react";
+import "./player.css";
 
-const axios = require('axios');
+const axios = require("axios");
 
 const Player = () => {
-
   // this state will manage the data input from data.json
   const [teamAndPlayer, setTeamAndPlayer] = useState([]);
 
@@ -15,35 +14,42 @@ const Player = () => {
   }, []);
 
   const getData = () => {
-  
-    axios('data.json', {
+    axios("data.json", {
       headers: {
-          'Content-Type': 'application/json',
-          'Accept': 'application/json'
-      }
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
     })
-    .then((response) => {
-      // response.data.Team_Players returns an array of objects
-      let data = response.data.Team_Players;
+      .then((response) => {
+        // response.data.Team_Players returns an array of objects
+        let data = response.data.Team_Players;
 
-      setTeamAndPlayer(data);
-    })
-    .catch((err) => {
-      console.log('err', err);
-    })
-  }
+        setTeamAndPlayer(data);
+      })
+      .catch((err) => {
+        console.log("err", err);
+      });
+  };
 
   return (
     console.log(teamAndPlayer),
-    <div className='player_box'>
-      {teamAndPlayer.map((info) => {
-        console.log('team', info.Team);
-        console.log('player', info.Player);
-        return <PlayerName team={info.Team} player={info.Player} />
-      })}
-    </div>
-  )
-
-}
+    (
+      <div className="player_box">
+        {teamAndPlayer.map((info) => {
+          // console.log("team", info.Team);
+          // console.log("player", info.Player);
+          return (
+            <PlayerName
+              key={info.Id}
+              team={info.Team}
+              player={info.Player}
+              id={info.Id}
+            />
+          );
+        })}
+      </div>
+    )
+  );
+};
 
 export default Player;

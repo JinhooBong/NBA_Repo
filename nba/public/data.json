@@ -2,123 +2,153 @@
   "Team_Players": [
     {
       "Team": "Los Angeles Lakers",
-      "Player": "Lebron James"
+      "Player": "Lebron James",
+      "Id": 265
     },
     {
       "Team": "Golden State Warriors",
-      "Player": "Stephen Curry"
+      "Player": "Stephen Curry",
+      "Id": 124
     },
     {
       "Team": "Boston Celtics",
-      "Player": "Jayson Tatum"
+      "Player": "Jayson Tatum",
+      "Id": 882
     },
     {
       "Team": "Los Angeles Clippers",
-      "Player": "Kawhi Leonard"
-    },  
+      "Player": "Kawhi Leonard",
+      "Id": 314
+    },
     {
       "Team": "Cleveland Cavaliers",
-      "Player": "Darius Garland"
+      "Player": "Darius Garland",
+      "Id": 1860
     },
     {
       "Team": "Washington Wizards",
-      "Player": "Bradley Beal"
+      "Player": "Bradley Beal",
+      "Id": 45
     },
     {
       "Team": "Miami Heat",
-      "Player": "Jimmy Butler"
+      "Player": "Jimmy Butler",
+      "Id": 86
     },
     {
       "Team": "Houston Rockets",
-      "Player": "Christian Wood"
+      "Player": "Christian Wood",
+      "Id": 560
     },
     {
       "Team": "Brooklyn Nets",
-      "Player": "Kevin Durant"
+      "Player": "Kevin Durant",
+      "Id": 153
     },
     {
       "Team": "New York Knicks",
-      "Player": "Julius Randle"
+      "Player": "Julius Randle",
+      "Id": 441
     },
     {
       "Team": "Chicago Bulls",
-      "Player": "DeMar DeRozan"
+      "Player": "DeMar DeRozan",
+      "Id": 136
     },
     {
       "Team": "Milwaukee Bucks",
-      "Player": "Giannis Antetekoumpo"
+      "Player": "Giannis Antetekoumpo",
+      "Id": 20
     },
     {
       "Team": "Detroit Pistons",
-      "Player": "Cade Cunningham"
+      "Player": "Cade Cunningham",
+      "Id": 2801
     },
     {
       "Team": "Philadelphia 76ers",
-      "Player": "Joel Embiid"
+      "Player": "Joel Embiid",
+      "Id": 159
     },
     {
       "Team": "San Antonio Spurs",
-      "Player": "Dejounte Murray"
+      "Player": "Dejounte Murray",
+      "Id": 382
     },
     {
       "Team": "Dallas Mavericks",
-      "Player": "Luka Dončić"
+      "Player": "Luka Dončić",
+      "Id": 963
     },
     {
       "Team": "Utah Jazz",
-      "Player": "Donovan Mitchell"
+      "Player": "Donovan Mitchell",
+      "Id": 840
     },
     {
       "Team": "Denver Nuggets",
-      "Player": "Nikola Jokić"
+      "Player": "Nikola Jokić",
+      "Id": 279
     },
     {
       "Team": "Portland Trail Blazers",
-      "Player": "Damian Lillard"
+      "Player": "Damian Lillard",
+      "Id": 319
     },
     {
       "Team": "Toronto Raptors",
-      "Player": "Fred VanVleet"
+      "Player": "Fred VanVleet",
+      "Id": 527
     },
     {
       "Team": "Oklahoma City Thunder",
-      "Player": "Shai Gilgeous-Alexander"
+      "Player": "Shai Gilgeous-Alexander",
+      "Id": 972
     },
     {
       "Team": "Sacramento Kings",
-      "Player": "De'Aaron Fox"
+      "Player": "De'Aaron Fox",
+      "Id": 776
     },
     {
       "Team": "Atlanta Hawks",
-      "Player": "Trae Young"
+      "Player": "Trae Young",
+      "Id": 1046
     },
     {
       "Team": "Phoenix Suns",
-      "Player": "Devin Booker"
+      "Player": "Devin Booker",
+      "Id": 64
     },
     {
       "Team": "Memphis Grizzlies",
-      "Player": "Ja Morant"
+      "Player": "Ja Morant",
+      "Id": 1881
     },
     {
       "Team": "Charlotte Hornets",
-      "Player": "Lamelo Ball"
+      "Player": "Lamelo Ball",
+      "Id": 2566
     },
     {
       "Team": "Orlando Magic",
-      "Player": "Cole Anthony"
+      "Player": "Cole Anthony",
+      "Id": 2563
     },
     {
       "Team": "Indiana Pacers",
-      "Player": "Domantas Sabonis"
+      "Player": "Domantas Sabonis",
+      "Id": 463
     },
     {
       "Team": "New Orleans Pelicans",
-      "Player": "Brandon Ingram"
+      "Player": "Brandon Ingram",
+      "Id": 260
     },
     {
       "Team": "Minnesota Timberwolves",
-      "Player": "Karl-Anthony Towns"
+      "Player": "Karl-Anthony Towns",
+      "Id": 519
     }
   ]
 }
