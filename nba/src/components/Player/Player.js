@@ -7,7 +7,8 @@ const axios = require('axios');
 
 const Player = () => {
 
-  const [teams, setTeams] = useState('');
+  // this state will manage the data input from data.json
+  const [teamAndPlayer, setTeamAndPlayer] = useState([]);
 
   useEffect(() => {
     getData();
@@ -22,18 +23,24 @@ const Player = () => {
       }
     })
     .then((response) => {
-      console.log(response.data);
+      // response.data.Team_Players returns an array of objects
+      let data = response.data.Team_Players;
+
+      setTeamAndPlayer(data);
     })
     .catch((err) => {
       console.log('err', err);
     })
   }
-  
-  
 
   return (
+    console.log(teamAndPlayer),
     <div className='player_box'>
-      <PlayerName />
+      {teamAndPlayer.map((info) => {
+        console.log('team', info.Team);
+        console.log('player', info.Player);
+        return <PlayerName team={info.Team} player={info.Player} />
+      })}
     </div>
   )
 
