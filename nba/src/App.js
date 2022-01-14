@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <Stats />
-
       <Player />
     </div>
   );
