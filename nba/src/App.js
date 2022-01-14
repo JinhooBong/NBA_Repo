@@ -1,5 +1,6 @@
 import "./App.css";
-import Stats from "./components/Stats/Stats";
+// import Stats from "./components/Stats/Stats";
+import Stats from './components/stats/Stats';
 import Player from "./components/Player/Player";
 
 function App() {
